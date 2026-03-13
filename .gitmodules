@@ -5,6 +5,3 @@
 [submodule "misPRIME"]
 	path = misPRIME
 	url = https://github.com/cran/misPRIME
-[submodule "visaOTR"]
-	path = visaOTR
-	url = https://github.com/cran/visaOTR
